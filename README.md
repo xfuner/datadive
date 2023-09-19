@@ -11,8 +11,8 @@ http://datadive.funplus.com:23235/
 
 3. Input your query in natural language
 
-![Image description](ask_quesiton .png)
-![Image description](ask_question1.png)
+![data visualization demo](ask_question.png)
+![data analysis demo](ask_question1.png)
 
 
 ## Demo Video
