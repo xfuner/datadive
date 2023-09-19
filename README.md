@@ -9,7 +9,7 @@ http://datadive.funplus.com:23235/
    
 ![Image description](upload_file.png)
 
-3. Input your query in natural language
+2. Input your query in natural language
 
 ![data visualization demo](ask_question.png)
 ![data analysis demo](ask_question1.png)
