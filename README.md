@@ -2,17 +2,20 @@
 http://datadive.funplus.com:23235/
 
 ## Architecture 
-![Image description](source/aicopilot_architecture.jpeg)
+![Image description](aicopilot_architecture.jpeg)
 
 ## How to Use
 1. Upload a csv file
-![Image description](source/upload_file.png)
+   
+![Image description](upload_file.png)
 
-2. Input your query in natural language
-![Image description](source/ask_quesiton.png)
-![Image description](source/ask_quesiton1.png)
+3. Input your query in natural language
+
+![Image description](ask_quesiton.png)
+![Image description](ask_question1.png)
 
 
 ## Demo Video
-[![IMAGE ALT TEXT](source/123.png)](https://drive.google.com/file/d/17w7dFrKRmIeZLl1oVSO-ra6A-ivdT2hL/view?usp=sharing "DataDive Demo")
+
+[![IMAGE ALT TEXT](video_preview.png)](https://drive.google.com/file/d/17w7dFrKRmIeZLl1oVSO-ra6A-ivdT2hL/view?usp=sharing "DataDive Demo")
 
